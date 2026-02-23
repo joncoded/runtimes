@@ -2,7 +2,7 @@
 
 mixing some software into meaningful bundles
 
-![screenshot of a MixMarks home page](./images/screenshot1.png)
+![screenshot of a MixMarks home page](./public/images/readme/screenshot1.png)
 
 a Next.js starter for marks ("mini-apps") like "calculators" and "generators"
 
@@ -25,7 +25,7 @@ This web work has:
       * `metadata.ts` 
 * 4 "marks" built-in as a "starter kit", e.g.:
 
-![screenshot of a mark](./images/screenshot2.png)
+![screenshot of a mark](./public/images/readme/screenshot2.png)
 
 This web work makes note of:
 
