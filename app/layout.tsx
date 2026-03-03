@@ -18,7 +18,7 @@ const spectral = Spectral({
 })
 
 export const metadata: Metadata = {
-  title: 'MixMarks - mini-app portfolio platform',
+  title: 'RunTimes - mini-app portfolio platform',
   description: 'A platform of mini-apps and tools',
 }
 

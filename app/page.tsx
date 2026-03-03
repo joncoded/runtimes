@@ -28,7 +28,7 @@ export default function Home() {
   return (
     <div className="container max-w-7xl mx-auto px-4 py-12">
 
-      <h1 className="font-heading text-5xl font-bold mb-4">Welcome to <span className="text-orange-500">MixMarks!</span></h1>
+      <h1 className="font-heading text-5xl font-bold mb-4">Welcome to <span className="text-orange-500">RunTimes!</span></h1>
       <p className="text-xl mb-6 md:mb-12 text-gray-600 dark:text-gray-400">
         a Next.js platform for "marks" (mini-apps like calculators and generators)
       </p>
@@ -67,7 +67,7 @@ export default function Home() {
         </p>
       )}
 
-      <h2 className="font-heading text-2xl font-bold mt-12 mb-4">MixMarks (as a platform)</h2>
+      <h2 className="font-heading text-2xl font-bold mt-12 mb-4">RunTimes (as a platform)</h2>
       
       <div className="text-lg mb-12 text-gray-600 dark:text-gray-400">
         <p>Feel free to use this as a platform for your own mini-apps: </p>
@@ -76,7 +76,7 @@ export default function Home() {
           <li>create your own "marks" one-by-one using Next.js / React / JavaScript / HTML or whatever!</li>
           <li>each mark will contain a metadata file that contains the title, description and visibility on the home page</li>
         </ul>
-        <p className="my-4 text-right">Get the code from <a href="https://github.com/joncoded/mixmarks" target="_blank"><button className="rounded-none bg-black dark:bg-white hover:bg-orange-400 dark:hover:bg-orange-400 text-white dark:text-black dark:hover:text-white px-4 py-2 font-heading">GitHub <span aria-hidden="true">🐙</span></button></a></p>
+        <p className="my-4 text-right">Get the code from <a href="https://github.com/joncoded/runtimes" target="_blank"><button className="rounded-none bg-black dark:bg-white hover:bg-orange-400 dark:hover:bg-orange-400 text-white dark:text-black dark:hover:text-white px-4 py-2 font-heading">GitHub <span aria-hidden="true">🐙</span></button></a></p>
       </div>      
 
     </div>

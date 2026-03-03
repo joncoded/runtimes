@@ -1,8 +1,8 @@
-# MixMarks
+# RunTimes
 
 mixing some software into meaningful bundles
 
-![screenshot of a MixMarks home page](./public/images/readme/screenshot1.png)
+![screenshot of a RunTimes home page](./public/images/readme/screenshot1.png)
 
 a Next.js starter for marks ("mini-apps") like "calculators" and "generators"
 
@@ -39,11 +39,11 @@ This web work makes note of:
 
 Run the build on either:
 
-<a href="https://mixmarks.joncoded.com" target="_blank"><button>mixmarks.joncoded.com</button></a>
+<a href="https://runtimes.joncoded.com" target="_blank"><button>runtimes.joncoded.com</button></a>
 
 or
 
-<a href="https://mixmarks-joncoded.vercel.app" target="_blank"><button>mixmarks-joncoded.vercel.app</button></a>
+<a href="https://runtimes-joncoded.vercel.app" target="_blank"><button>runtimes-joncoded.vercel.app</button></a>
 
 
 ## Setup 
@@ -53,7 +53,7 @@ or
 Run the following on "Terminal":
 
 ```bash
-% git clone https://github.com/joncoded/mixmarks.git mixmarks && cd mixmarks
+% git clone https://github.com/joncoded/runtimes.git runtimes && cd runtimes
 % npm install
 ```
 
