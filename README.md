@@ -18,14 +18,19 @@ This web work has:
 
 * a fixed header 
 * a light / dark / system layout
+
+![screenshot of a dark mode](./public/images/readme/screenshot2.png)
+
+
 * a home page with a "show more" button to, well, show more "marks"
 * clean folder layout for marks: `/mark`
   * each "mark" has its own folder with:
       * `page.tsx` 
       * `metadata.ts` 
+
 * 4 "marks" built-in as a "starter kit", e.g.:
 
-![screenshot of a mark](./public/images/readme/screenshot2.png)
+![screenshot of a mark](./public/images/readme/screenshot3.png)
 
 This web work makes note of:
 
